@@ -11,10 +11,9 @@
 #### INSTRUCTOR
 
 Dr. Hosein Mohammadzadeh
-
 _Contact:_
-[_Webpage_](https://uma.ac.ir/cv.php?cv=117&url_title=%d8%ad%d8%b3%db%8c%d9%86-%d9%85%d8%ad%d9%85%d8%af%d8%b2%d8%a7%d8%af%d9%87&rewrite_url=1&mod=scv)
-_Email:_ `mohammadzadeh@uma.ac.ir`
+*[_Webpage_](https://uma.ac.ir/cv.php?cv=117&url_title=%d8%ad%d8%b3%db%8c%d9%86-%d9%85%d8%ad%d9%85%d8%af%d8%b2%d8%a7%d8%af%d9%87&rewrite_url=1&mod=scv)
+*_Email:_ `mohammadzadeh@uma.ac.ir`
 
 
 ### Ruby Gem
