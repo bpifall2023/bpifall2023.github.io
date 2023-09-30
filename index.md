@@ -1,21 +1,20 @@
 
 #### A FEW WORDS ABOUT THE COURSE
 
-<div style="text-align: justify;">Welcome to the <b>Basic Physics I</b> course! We're excited to have you on this academic journey. In this course, we will explore the fundamental principles that underlie the physical world around us. Whether you're new to physics or looking to strengthen your understanding, this course is designed to provide a solid foundation. We'll roughly cover mechanics, and our goal is to make physics accessible, engaging, and relevant to your everyday life. Feel free to reach out with questions, concerns, or simply to discuss your fascination with the wonders of the universe. Let's embark on this learning adventure together!</div>
+<p style="text-align: justify;">Welcome to the <b>Basic Physics I</b> course! We're excited to have you on this academic journey. In this course, we will explore the fundamental principles that underlie the physical world around us. Whether you're new to physics or looking to strengthen your understanding, this course is designed to provide a solid foundation. We'll roughly cover mechanics, and our goal is to make physics accessible, engaging, and relevant to your everyday life. Feel free to reach out with questions, concerns, or simply to discuss your fascination with the wonders of the universe. Let's embark on this learning adventure together!</p>
+
+#### NEWS
+
+* `September 30, 5:35 PM` Midterm exam will be held on <mark><i>Unknown</i></mark>. Stuay tuned for details in later announcements in class or in this webpage.
 
 
+#### INSTRUCTOR
 
-### Remote Theme
+Dr. Hosein Mohammadzadeh
+_Contact:_
+[_Webpage_](https://uma.ac.ir/cv.php?cv=117&url_title=%d8%ad%d8%b3%db%8c%d9%86-%d9%85%d8%ad%d9%85%d8%af%d8%b2%d8%a7%d8%af%d9%87&rewrite_url=1&mod=scv)
+_Email_: `mohammadzadehuma.ac.ir`
 
-Use `oinam-jekyll` as a [remote theme](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll) and you should be good to go. Add `remote_theme: oinam/oinam-jekyll` in the `_config.yml` file.
-
-This is the preferred option. You get updates as soon as a new feature is added or bugs are fixed and updated on Github. You also get the latest versions.
-
-### Template (Modify and Use)
-
-Either fork the [repository](https://github.com/oinam/oinam-jekyll) or [Use this Template](https://github.com/oinam/oinam-jekyll/generate) from the repository on Github.
-
-This option is suggested for Jekyll tinkerers and experts who are willing to update manually.
 
 ### Ruby Gem
 
