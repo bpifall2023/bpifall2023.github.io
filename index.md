@@ -4,7 +4,7 @@
 
 #### NEWS
 
-* `September 30, 2023` Midterm exam will be held on <mark><i>Unknown</i></mark>. Stuay tuned for details in later announcements in class or in this webpage.
+* `September 30, 2023` Midterm exam will be held on <mark>Unknown</mark>. Stuay tuned for details in later announcements in class or in this webpage.
 
 #### INSTRUCTOR
 
@@ -55,9 +55,9 @@ _Contact_:
 
 #### INSTRUCTION FOR PREPARING/HANDING YOUR HAs
 
-* Email your HAs to the course main Gmail account -> `bpifall2023@gmail.com`. Your HAs will be Reviewed by TA. 
+* Email your HAs to the course main Gmail account -> `bpifall2023@gmail.com`. Your HAs will be reviewed by TA. 
 * Put your <mark>full name & student ID</mark> on your HAs.
-* Use papers parsimoniously to help save the trees. Electronic Copies (in PDF format, Prepared in a reasonable quality) are preferable and encouraged. 
+* Use papers parsimoniously to help save the trees. Electronic copies (in PDF format, Prepared in a reasonable quality) are preferable and encouraged. 
 * Put your HAs in proper orders and paginate them.
 * staple if you hand in papers, <mark>copy</mark> of them are not allowed.
 
