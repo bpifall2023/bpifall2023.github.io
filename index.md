@@ -1,15 +1,9 @@
 
 #### A FEW WORDS ABOUT THE COURSE
 
-<div style="text-align: justify;">Welcome to the **Basic Physics I** course! We're excited to have you on this academic journey. In this course, we will explore the fundamental principles that underlie the physical world around us. Whether you're new to physics or looking to strengthen your understanding, this course is designed to provide a solid foundation. We'll roughly cover mechanics, and our goal is to make physics accessible, engaging, and relevant to your everyday life. Feel free to reach out with questions, concerns, or simply to discuss your fascination with the wonders of the universe. Let's embark on this learning adventure together!</div>
+<div style="text-align: justify;">Welcome to the <p><strong>Basic Physics I</strong></p>course! We're excited to have you on this academic journey. In this course, we will explore the fundamental principles that underlie the physical world around us. Whether you're new to physics or looking to strengthen your understanding, this course is designed to provide a solid foundation. We'll roughly cover mechanics, and our goal is to make physics accessible, engaging, and relevant to your everyday life. Feel free to reach out with questions, concerns, or simply to discuss your fascination with the wonders of the universe. Let's embark on this learning adventure together!</div>
 
 
-
-There are three ways of using Oinam Jekyll Theme;
-
-1. Remote Theme
-2. Template
-3. Ruby Gem
 
 ### Remote Theme
 
