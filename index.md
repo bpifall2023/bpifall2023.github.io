@@ -59,7 +59,7 @@ _Contact_:
 * Put your <mark>full name & student ID</mark> on your HAs.
 * Use papers parsimoniously to help save the trees. Electronic Copies (in PDF format, Prepared in a reasonable quality) are preferable and encouraged. 
 * Put your HAs in proper orders and paginate them.
-* staple if you hand in papers, Copy of them are not allowed.
+* staple if you hand in papers, <mark>copy</mark> of them are not allowed.
 
 #### HOMEWORKS 
     
