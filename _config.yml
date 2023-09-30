@@ -1,35 +1,35 @@
-title: Oinam Jekyll
-description: 'A simple, clean, and minimal Jekyll Theme.'
+title: Basic Physics I
+description: 'Fall 2023, physics department of UMA'
 
 # Set this to your domain; baseurl is for the folder in your domain, if you have one -- `blog`.
 # you can leave both of them blank if you are deploying on a top-level domain.
-url: https://oinam.github.io
-baseurl: /oinam-jekyll
+url: 
+baseurl: 
 
 # footer
 footer:
-  credit: true
+  credit: false
   custom: false
 
 # if above footer:custom is 'true', then this will be printed instead
-footer_custom: 'An ever Work-in-Progress effort by <a href="https://oinam.com">Oinam</a>.'
+# footer_custom: 'An ever Work-in-Progress effort by <a href="https://oinam.com">Oinam</a>.'
 
 layout:
   theme: default # default, vintage, nord
   theme_highlighter: vs # default, more at css/highlighter (source: https://github.com/richleland/pygments-css)
   theme_switch: true # enable or disable user toggle switch between light and dark theme
-  home_posts_no: 6
-  home_postheader_title: 'Recent posts'
-  home_postmeta_title: 'View all'
+  home_posts_no: 50
+  home_postheader_title: 
+  home_postmeta_title:
   posts_home: /blog/
-  link_new_tab: true # should external links open in a new tab (true) or in the current tab (false)
+  link_new_tab: false # should external links open in a new tab (true) or in the current tab (false)
   header_desc: true # set to false to disable description in the Header.
 
 # styles
 styles:
   font_family: sans # sans (default), serif, mixed-sans (sans-head, serif-body), mixed-serif (serif-head, sans-body)
   # include only the styles you want [true | false]
-  forms: true
+  forms: false
   syntax_highlighter: true # Code Syntax Highlighter
   inline: true # true to embed the styles in the HTML
 
@@ -56,9 +56,9 @@ defaults:
       permalink: '/:year/:title/'
 
 titles_from_headings:
-  enabled: true
-  strip_title: true
-  collections: true
+  enabled: false
+  strip_title: false
+  collections: false
 
 exclude:
   - .jekyll-cache/
