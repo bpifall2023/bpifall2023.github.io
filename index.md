@@ -1,20 +1,8 @@
----
-#
-# By default, content added below the "---" mark will appear in the home page
-# between the top bar and the list of recent posts.
-# To change the home page layout, edit the _layouts/home.html file.
-# https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-#
-layout: page
----
 
-This is the demo and documentation for Oinam Jekyll Theme. The [Styleguide]({{ site.baseurl | prepend: site.url }}/styleguide/) has the demonstation of all content features and options you can use. I wrote [an article](https://brajeshwar.com/2021/brajeshwar.com-2021/) about how and why I built this Jekyll Theme.
+### A FEW WORDS ABOUT THE COURSE
+Welcome to the Basic Physics 1 course! We're excited to have you on this academic journey. In this course, we will explore the fundamental principles that underlie the physical world around us. Whether you're new to physics or looking to strengthen your understanding, this course is designed to provide a solid foundation. We'll roughly cover mechanics, and our goal is to make physics accessible, engaging, and relevant to your everyday life. Feel free to reach out with questions, concerns, or simply to discuss your fascination with the wonders of the universe. Let's embark on this learning adventure together!
 
-> The [source](https://github.com/oinam/oinam-jekyll) is hosted on Github and you can [download](https://github.com/oinam/oinam-jekyll/archive/refs/heads/main.zip) a zipped version of the source code.
 
----
-
-## Installation
 
 There are three ways of using Oinam Jekyll Theme;
 
