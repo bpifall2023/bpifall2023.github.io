@@ -24,9 +24,9 @@ Saturday & Tuesday, 8:00-10:00, Faculty of Science, Class No.: 101
 **Reza Sattary**
 
 _Contact_:
-* [Webpage](sattary.github.io)
+* [_Webpage_](sattary.github.io)
 * _Gmail_: `thesattary`
-* _via Telegram:_ `thesattary`
+* _via Telegram:_ [`thesattary`](telegram.me/thesattary)
 
 #### RULES  
 
@@ -64,10 +64,10 @@ _Contact_:
 #### HOMEWORKS 
 
 * Problems set 1 - [PDF](https://drive.google.com/file/d/1Eaxzk5RmQMI4NBRNiQ6BfkxtXw_9IlnH/view?usp=sharing)
-* Problems, set 2 - [Test Name](https://drive.google.com/file/d/1Eaxzk5RmQMI4NBRNiQ6BfkxtXw_9IlnH/view?usp=sharing)  
+
     
 
 #### SOLUTIONS
 * Solution to Problems set 1 - [PDF](https://drive.google.com/file/d/1cApcbrYmAmZg1YuxYicr32CuZbh530FV/view?usp=sharing) and video goes below
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m7RPiNYIokI" frameborder="0" allowfullscreen></iframe>
+<iframe width="460" height="315" src="https://www.youtube.com/embed/m7RPiNYIokI" frameborder="0" allowfullscreen></iframe>
 
