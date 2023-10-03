@@ -71,22 +71,6 @@ _Contact_:
 
 * Solution to Problems set 1 - [PDF](https://drive.google.com/file/d/1cApcbrYmAmZg1YuxYicr32CuZbh530FV/view?usp=sharing) and video goes below
 
-.iframe-container {
-  position: relative;
-  width: 100%;
-  padding-bottom: 56.25%; /* 16:9 aspect ratio */
-  height: 0;
-}
-
-.iframe-container iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-<div class="iframe-container">
-  <iframe src="https://www.youtube.com/embed/m7RPiNYIokI" frameborder="0" allowfullscreen></iframe>
-</div>
+<iframe width="50%" height="50%" src="https://www.youtube.com/embed/m7RPiNYIokI" frameborder="0" allowfullscreen></iframe>
 
 
