@@ -68,6 +68,9 @@ _Contact_:
     
 
 #### SOLUTIONS
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
 * Solution to Problems set 1 - [PDF](https://drive.google.com/file/d/1cApcbrYmAmZg1YuxYicr32CuZbh530FV/view?usp=sharing) and video goes below
-<iframe width="100" height="100" src="https://www.youtube.com/embed/m7RPiNYIokI" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/m7RPiNYIokI" frameborder="0" allowfullscreen></iframe>
 
