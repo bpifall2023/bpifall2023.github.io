@@ -69,8 +69,8 @@ _Contact_:
 
 #### SOLUTIONS
 
-* Solution to Problems set 1 - [PDF](https://drive.google.com/file/d/1cApcbrYmAmZg1YuxYicr32CuZbh530FV/view?usp=sharing) and video goes below
+* Solution to Problems set 1 - [PDF](https://drive.google.com/file/d/1cApcbrYmAmZg1YuxYicr32CuZbh530FV/view?usp=sharing) and [Video]()
 
-<iframe width="50%" height="50%" src="https://www.youtube.com/embed/m7RPiNYIokI" frameborder="0" allowfullscreen></iframe>
+
 
 
