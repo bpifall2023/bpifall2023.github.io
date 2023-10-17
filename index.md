@@ -26,7 +26,7 @@ Saturday & Tuesday, 8:00-10:00, Faculty of Science, Class No.: 101
 _Contact_:
 * [_Webpage_](https://sattary.github.io/)
 * _Gmail:_  [`thesattary`](mailto:thesattary@gmail.com)
-* _via Telegram:_ [`thesattary`](telegram.me/thesattary)
+* _via Telegram:_ [`thesattary`](https://t.me/thesattary)
 
 
 #### REFERENCES
