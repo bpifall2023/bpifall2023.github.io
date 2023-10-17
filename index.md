@@ -24,15 +24,10 @@ Saturday & Tuesday, 8:00-10:00, Faculty of Science, Class No.: 101
 **Reza Sattary**
 
 _Contact_:
-* [_Webpage_](sattary.github.io)
-* _Gmail_: `thesattary`
+* [_Webpage_](https://sattary.github.io/)
+* _Gmail:_  [`thesattary`](mailto:thesattary@gmail.com)
 * _via Telegram:_ [`thesattary`](telegram.me/thesattary)
 
-#### RULES  
-
-* 
-* 
-* 
 
 #### REFERENCES
 
@@ -46,7 +41,10 @@ _Contact_:
 2. The Feynman Lectures on Physics, _you can find online [here](https://www.feynmanlectures.caltech.edu/)_
 3. Walter Lewin's Classical Mechanics, Fall 1999 course from MIT is highly encouraged. _you can find the whole lectures [here](https://www.youtube.com/playlist?list=PLUdYlQf0_sSsb2tNcA3gtgOt8LGH6tJbr)_ 
 
+
 #### GRADING POLICY
+_Empty_
+
 
 #### NOTES 
 
@@ -61,15 +59,21 @@ _Contact_:
 * Put your HAs in proper orders and paginate them.
 * staple if you hand in papers, <mark>copy</mark> of them are not allowed.
 
+
+#### COURSE MATERIALS
+
+* Lecture 01, 07.25 - [PDF](https://drive.google.com/file/d/1tXKdQUzDtTI2G1y8ufEO7xs-_wVlYo-H/view?usp=sharing)
+
+
 #### HOMEWORKS 
 
-* Problems set 1 - [PDF](https://drive.google.com/file/d/1Eaxzk5RmQMI4NBRNiQ6BfkxtXw_9IlnH/view?usp=sharing)
+* 
 
     
 
 #### SOLUTIONS
 
-* Solution to Problems set 1 - [PDF](https://drive.google.com/file/d/1cApcbrYmAmZg1YuxYicr32CuZbh530FV/view?usp=sharing) and [Video]()
+* 
 
 
 
