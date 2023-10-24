@@ -4,8 +4,9 @@
 
 #### NEWS
 
-* `September 30, 2023` Midterm exam will be held on <mark>Unknown</mark>. Stuay tuned for details in later announcements in class or in this webpage.
-* `October 24, 2023` Telegram group has been lunched, please join via [link](https://t.me/bpifall2023)
+* `October 24, 2023` Telegram group has been launched, please join via [link](https://t.me/bpifall2023)
+* `September 30, 2023` Midterm exam will be held on <mark>Unknown</mark>. Stay tuned for details in later announcements in class or in this webpage.
+
 
 #### INSTRUCTOR
 
