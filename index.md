@@ -63,6 +63,7 @@ _Empty_
 #### COURSE MATERIALS
 
 * Lecture 01, 07.25 - [PDF](https://drive.google.com/file/d/1tXKdQUzDtTI2G1y8ufEO7xs-_wVlYo-H/view?usp=sharing)
+* Lecture 02, 07.30 - [PDF](https://drive.google.com/file/d/1nlFEQQrylITmJ5SUdukvpvmqNf3xaeY9/view?usp=sharing)
 
 
 #### HOMEWORKS 
