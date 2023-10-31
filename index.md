@@ -66,6 +66,9 @@ _Empty_
 
 * Lecture 01, 07.25 - [PDF](https://drive.google.com/file/d/1tXKdQUzDtTI2G1y8ufEO7xs-_wVlYo-H/view?usp=sharing)
 * Lecture 02, 07.30 - [PDF](https://drive.google.com/file/d/1nlFEQQrylITmJ5SUdukvpvmqNf3xaeY9/view?usp=sharing)
+* Lecture 03, 08.02 - [PDF](https://drive.google.com/file/d/1pw4Fb_FVH1xa_mcP6Ssbz1GyPzG3Pl_k/view?usp=sharing)
+* Lecture 04, 08.07 - [PDF](https://drive.google.com/file/d/1m7U0XzIU17ptRUuBC1UIuvXbnqUL-CWn/view?usp=sharing)
+* Lecture 05, 08.09 - [PDF](https://drive.google.com/file/d/1ktzIAazPSM-Rbciwr3pb1PlGLQ505uan/view?usp=sharing)
 
 
 #### HOMEWORKS 
