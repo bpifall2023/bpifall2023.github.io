@@ -51,7 +51,7 @@ _Empty_
 #### NOTES 
 
 * Homework Assignments (HAs) will be uploaded on the course webpage.
-* Due date for each HA is exactly <mark>Unknown</mark>  after uploading it. Delays less than an hour might be acceptable only after proper reasoning. <mark>no further delays are allowed.</mark>
+* Due date for each HA is exactly <mark>8 days</mark>  after uploading it. Delays less than an hour might be acceptable only after proper reasoning. <mark>no further delays are allowed.</mark>
 
 #### INSTRUCTION FOR PREPARING/HANDING YOUR HAs
 
