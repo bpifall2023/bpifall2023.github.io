@@ -73,7 +73,7 @@ _Empty_
 
 #### HOMEWORKS 
 
-* HW - no. 1 - [PDF](https://drive.google.com/file/d/1MkvC5Os8fN0tsMtuZegO8SHsgqHIzr6T/view?usp=sharing), due: 19 Aban  
+* HW - no. 1 - [PDF](https://drive.google.com/file/d/1MkvC5Os8fN0tsMtuZegO8SHsgqHIzr6T/view?usp=sharing), due: 19 Aban(23:59)  
 
     
 
