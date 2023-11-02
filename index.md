@@ -44,10 +44,6 @@ _Contact_:
 3. Walter Lewin's Classical Mechanics, Fall 1999 course from MIT is highly encouraged. _you can find the whole lectures [here](https://www.youtube.com/playlist?list=PLUdYlQf0_sSsb2tNcA3gtgOt8LGH6tJbr)_ 
 
 
-#### GRADING POLICY
-_Empty_
-
-
 #### NOTES 
 
 * Homework Assignments (HAs) will be uploaded on the course webpage.
