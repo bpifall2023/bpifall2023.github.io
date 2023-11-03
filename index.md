@@ -4,7 +4,6 @@
 
 #### NEWS
 
-* `October 24, 2023` Telegram group has been launched, please join via [link](https://t.me/bpifall2023)
 * `September 30, 2023` Midterm exam will be held on <mark>Unknown</mark>. Stay tuned for details in later announcements in class or in this webpage.
 
 
@@ -69,7 +68,7 @@ _Contact_:
 
 #### HOMEWORKS 
 
-* HW - no. 1 - [PDF](https://drive.google.com/file/d/1MkvC5Os8fN0tsMtuZegO8SHsgqHIzr6T/view?usp=sharing), due: 19 Aban(23:59)  
+* HW - no. 1 - [PDF](https://drive.google.com/file/d/1MkvC5Os8fN0tsMtuZegO8SHsgqHIzr6T/view?usp=sharing), due: Aban 19, 1402  
 
     
 
