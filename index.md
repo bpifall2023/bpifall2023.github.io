@@ -68,7 +68,7 @@ _Contact_:
 
 #### HOMEWORKS 
 
-* HW - no. 1 - [PDF](https://drive.google.com/file/d/1MkvC5Os8fN0tsMtuZegO8SHsgqHIzr6T/view?usp=sharing), due: Aban 19, 1402  
+* HW - no. 1 - [PDF](https://drive.google.com/file/d/1CQBjxqFE7yrNYWOjaiBzgWQQ_L5k056Q/view?usp=sharing), due: Aban 19, 1402  
 
     
 
