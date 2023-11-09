@@ -2,10 +2,6 @@
 
 <p style="text-align: justify; ">Welcome to the <b>Basic Physics I</b> course! We're excited to have you on this academic journey. In this course, we will explore the fundamental principles that underlie the physical world around us. Whether you're new to physics or looking to strengthen your understanding, this course is designed to provide a solid foundation. We'll roughly cover mechanics, and our goal is to make physics accessible, engaging, and relevant to your everyday life. Feel free to reach out with questions, concerns, or simply to discuss your fascination with the wonders of the universe. Let's embark on this learning adventure together!</p>
 
-#### NEWS
-
-* `September 30, 2023` Midterm exam will be held on <mark>Unknown</mark>. Stay tuned for details in later announcements in class or in this webpage.
-
 
 #### INSTRUCTOR
 
@@ -64,6 +60,8 @@ _Contact_:
 * Lecture 03, 08.02 - [PDF](https://drive.google.com/file/d/1pw4Fb_FVH1xa_mcP6Ssbz1GyPzG3Pl_k/view?usp=sharing)
 * Lecture 04, 08.07 - [PDF](https://drive.google.com/file/d/1m7U0XzIU17ptRUuBC1UIuvXbnqUL-CWn/view?usp=sharing)
 * Lecture 05, 08.09 - [PDF](https://drive.google.com/file/d/1ktzIAazPSM-Rbciwr3pb1PlGLQ505uan/view?usp=sharing)
+* Lecture 06, 08.14 - [PDF](https://drive.google.com/file/d/15OVly8g9ocNXNAOAlSGUIIEYq2Nbtu2W/view?usp=sharing)
+* Lecture 07, 08.16 - [PDF](https://drive.google.com/file/d/1Yx_LD_d6cBy8Q6zGkClC6gqO7YJde4zz/view?usp=sharing) 
 
 
 #### HOMEWORKS 
