@@ -61,7 +61,9 @@ _Contact_:
 * Lecture 04, 08.07 - [PDF](https://drive.google.com/file/d/1m7U0XzIU17ptRUuBC1UIuvXbnqUL-CWn/view?usp=sharing)
 * Lecture 05, 08.09 - [PDF](https://drive.google.com/file/d/1ktzIAazPSM-Rbciwr3pb1PlGLQ505uan/view?usp=sharing)
 * Lecture 06, 08.14 - [PDF](https://drive.google.com/file/d/15OVly8g9ocNXNAOAlSGUIIEYq2Nbtu2W/view?usp=sharing)
-* Lecture 07, 08.16 - [PDF](https://drive.google.com/file/d/1Yx_LD_d6cBy8Q6zGkClC6gqO7YJde4zz/view?usp=sharing) 
+* Lecture 07, 08.16 - [PDF](https://drive.google.com/file/d/1Yx_LD_d6cBy8Q6zGkClC6gqO7YJde4zz/view?usp=sharing)
+* Lecture 08, 08.21 - [PDF](https://drive.google.com/file/d/1v2mbxfW5ImF2b2uYVGdAqGZMf4jl6R5E/view?usp=sharing)
+* Lecture 09, 08.23 - [PDF](https://drive.google.com/file/d/1t70xqsHAd9Iup8MOCrSIdBYyTl8VzvqS/view?usp=sharing)
 
 
 #### HOMEWORKS 
