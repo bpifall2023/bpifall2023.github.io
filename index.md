@@ -70,6 +70,9 @@ _Contact_:
 * Lecture 13, 09.07 - [PDF](https://drive.google.com/file/d/1hsZulRDdd4qJlszlndVvhFxpTrnQoiUZ/view?usp=sharing)
 * Lecture 14, 09.12 - [PDF](https://drive.google.com/file/d/1Lu0VdFptV1bpNrfSqe6TSWc2WZWumuMm/view?usp=sharing)
 * Lecture 15, 09.14 - [PDF](https://drive.google.com/file/d/1Q29t_G2-FIhZsxusMqJh0dMctgKh78vH/view?usp=sharing)
+* Lecture 16, 09.19 - [PDF](https://drive.google.com/file/d/14wfnXlzlaoxNk4DwmdOkX9xcUG7-ypLk/view?usp=sharing)
+* Lecture 17, 09.21 - [PDF](https://drive.google.com/file/d/1ZQLLUB31OYMpyxTllzMwc9ZEbDfG9mWf/view?usp=sharing)
+* Lecture 18, 09.28 - [PDF](https://drive.google.com/file/d/14R3uoA-oPbkCGMDN85ai5uZzBwwKsato/view?usp=sharing)
 
 #### HOMEWORKS 
 
