@@ -85,6 +85,7 @@ _Contact_:
 * HW - no.3 - [PDF](https://drive.google.com/file/d/1SVVkOHe54edTVcrgR5PSrK1MrVtFFQBa/view?usp=sharing), due: Azar 03, 1402
 * HW - no.4 - [PDF](https://drive.google.com/file/d/1t-vkAdxwyzoS8VlR-EOQHaJ74yunLAKC/view?usp=sharing), due: Azar 16, 1402
 * HW - no.5 - [PDF](https://drive.google.com/file/d/1PlcI72YO2lXTgvyv5dIBmq0eFEfOnGCd/view?usp=sharing), due: Azar 30, 1402
+* HW - no.6 - [PDF](https://drive.google.com/file/d/1Gk92LZzRe9jrZyttO2C6bEH5I_qHNoAQ/view?usp=sharing), due: Dey 21, 1402
 
     
 
