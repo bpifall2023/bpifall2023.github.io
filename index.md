@@ -107,3 +107,8 @@ _Contact_:
 
 
 * Set no.6 - Problems: [1](https://drive.google.com/file/d/11Uv23dX1_xH2ODoDz657Fb2H2bfe6-hG/view?usp=sharing) - [2](https://drive.google.com/file/d/1dnMi4Xu0mV7Z6_lNGF060IqmyhM2Hzoc/view?usp=sharing) - [3](https://drive.google.com/file/d/1a6zaj7RtP31WufZ8dR1XVhPR62GkguC7/view?usp=sharing) - [4](https://drive.google.com/file/d/1V7G54G7RqSr30qb3gGJYj3VW80zXjSXM/view?usp=sharing) - [5](https://drive.google.com/file/d/1DCc6r4AFKHX5A3-d8zB2E2T54bycvmdP/view?usp=sharing) - [6](https://drive.google.com/file/d/1RZ3yKTQPUuRSk3L9DD4ajVd7fbhBgzMo/view?usp=sharing) - [7](https://drive.google.com/file/d/1fAZwNh4c-uUH3S2nVzgHwTGJmmZ1IjuB/view?usp=sharing) - [8](https://drive.google.com/file/d/13_rJA-Q5rz7Su1yLSxCtsKj8GM5lk6du/view?usp=sharing) - [9](https://drive.google.com/file/d/1xMdeWn4-RyxGx_VkYQT_E_GH31dFr5OX/view?usp=sharing) - [10](https://drive.google.com/file/d/1gKnYGpRBu0hEAtiQhEa4avxuOQRXRXI2/view?usp=sharing) - [11](https://drive.google.com/file/d/18FkC92SUXM2xIyMkHht0jUlzA37vjypC/view?usp=sharing) - [12](https://drive.google.com/file/d/1t5dWHOWtoV0bTT-Gx94DcQ4A4HBTax2u/view?usp=sharing) - [13]() - [14]() - [15]() - [16]()
+
+
+#### Assignments Grade
+
+* [here](https://docs.google.com/spreadsheets/d/1P_r6seYKQEkuZTeQSpKe_VVkXOQbKo5z0rxOTSR1pUM/edit?usp=sharing)
